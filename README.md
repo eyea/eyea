@@ -16,12 +16,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+<br>
 
-<a href="https://github.com/HackerValley">
+<a href="https://github.com/eyea/daily-grocery">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=HackerValleys&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=daily-grocery&theme=radical" />
 </a>
 
+<a href="https://github.com/eyea/vim">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=vim&theme=radical" />
+</a>
 
 <!--
 **eyea/eyea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
