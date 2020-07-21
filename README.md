@@ -25,7 +25,7 @@
 
 <a href="https://github.com/eyea/vim">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=vim&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=vim&theme=radical" />
 </a>
 
 <!--
