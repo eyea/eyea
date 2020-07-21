@@ -1,10 +1,10 @@
 ### Hi there, I'm eyea! 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=eyea&show_icons=true&theme=radical" alt="eyea's github stats" />
+
 - 🔭 I’m currently working at home.
 - 🌱 I’m currently learning looking after my baby.
 - 📫 How to reach me: email(deyesea@gmail.com)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=eyea&show_icons=true&theme=radical" alt="eyea's github stats" />
 
 <br>
 
