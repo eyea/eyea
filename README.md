@@ -1,11 +1,17 @@
 ### Hi there, I'm eyea! 👋
  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=eyea&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" alt="eyea's github stats" />
-
 - 🔭 I’m currently working at home.
 - 🌱 I’m currently learning looking after my baby.
 - 📫 How to connect me: email(deyesea@gmail.com)
 
+<br>
+<br>
+<br>
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=eyea&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" alt="eyea's github stats" />
+
+<br>
+<br>
 <br>
 
 **Languages and Tools:**  
@@ -15,6 +21,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+<br>
+<br>
 <br>
 
 <a href="https://github.com/eyea/daily-grocery">
