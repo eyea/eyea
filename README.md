@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at home.
 - 🌱 I’m currently learning looking after my baby.
-- 📫 How to reach me: email(deyesea@gmail.com)
+- 📫 How to connect me: email(deyesea@gmail.com)
 
 <br>
 
@@ -18,13 +18,12 @@
 <br>
 
 <a href="https://github.com/eyea/daily-grocery">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=daily-grocery&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=daily-grocery&show_owner=true" />
 </a>
 
 <a href="https://github.com/eyea/vim">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=vim&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=vim&show_owner=true" />
 </a>
 
 <!--
