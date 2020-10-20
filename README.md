@@ -30,9 +30,12 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=vim&show_owner=true" />
 </a>
 
+<br>
+<br>
+
 <a href="https://github.com/eyea/js-gtts">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=js-gtts&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=js-gtts&show_owner=true" />
 </a>
 
 <!--
