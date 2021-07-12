@@ -21,7 +21,9 @@
 <br>
 <br>
 
-<a href="https://github.com/eyea/daily-grocery">
+https://github.com/eyea/eyea/blob/output/github-snake.gif?raw=true
+
+<!-- <a href="https://github.com/eyea/daily-grocery">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=daily-grocery&show_owner=true" />
 </a>
 
@@ -36,7 +38,7 @@
 <a href="https://github.com/eyea/js-gtts">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=js-gtts&show_owner=true" />
-</a>
+</a> -->
 
 <!--
 **eyea/eyea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
