@@ -21,7 +21,7 @@
 <br>
 <br>
 
-<img src='https://github.com/eyea/eyea/blob/output/github-snake.gif?raw=true' />
+<img src='https://github.com/eyea/eyea/blob/output/github-snake.svg?raw=true' />
 
 <!-- <a href="https://github.com/eyea/daily-grocery">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=daily-grocery&show_owner=true" />
