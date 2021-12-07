@@ -1,8 +1,7 @@
 ### Hi there, I'm eyea! 👋
  
-- 🔭 I’m currently working at home.
-- 🌱 I’m currently learning looking after my baby.
-- 📫 How to connect me: email(deyesea@gmail.com)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=eyea.eyea&left_color=green&right_color=red)
 
 ### 🏆 GitHub Profile Trophy:
 ---
