@@ -1,6 +1,6 @@
 ### Hi there, I'm eyea! 👋
  
-
+<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eyea.eyea&left_color=green&right_color=red)
 
 ### 🏆 GitHub Profile Trophy:
@@ -18,6 +18,7 @@
 ![eyea Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eyea&theme=solarized_dark)
 ![eyea Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyea&theme=solarized_dark)
 
+-->
 
 <!-- <br>
 
@@ -34,6 +35,7 @@
  -->
 
 <img src='https://github.com/eyea/eyea/blob/output/github-snake.svg?raw=true' />
+
 
 <!-- <a href="https://github.com/eyea/daily-grocery">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=eyea&repo=daily-grocery&show_owner=true" />
